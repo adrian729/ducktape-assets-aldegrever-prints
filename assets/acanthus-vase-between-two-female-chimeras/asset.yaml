@@ -1,0 +1,56 @@
+# descriptive: find it and understand it
+id: acanthus-vase-between-two-female-chimeras
+title: Vase between two female chimeras
+description: An upright engraved panel. A lidded fluted vase with a bearded mask on its bowl stands at the centre on a pair of scaly serpent coils; a female chimera stands at either side, with a woman's head and torso, a scaled lower body curling into a serpent tail and lion-pawed feet, each gripping the vase rim. From the vase rise acanthus leaves and thin stems that curl symmetrically into two large tulip-like flowers, two round blossoms and small leaf tendrils up to a central finial. Black and grey line work with cream paper-toned fills; the background is transparent.
+type: ornament
+categories:
+  - fantasy
+  - hybrids
+  - floral
+  - scrollwork
+subjects:
+  - vase
+  - chimera
+  - woman
+  - mask
+  - beard
+  - acanthus
+  - leaf
+  - flower
+  - stem
+  - scroll
+colors:
+  - black
+  - cream
+  - gray
+facing: viewer
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 1946-250
+render:
+  image: {}
+usage_notes:
+  - Tall upright panel (about 1 to 2); the chimeras and the vase form its base, so place it standing, not rotated.
+display_width:
+  - 300
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: A Vase between Two Chimeric Figures
+  object_identifier: "1946.250"
+  date: "1553"
+  artist: Heinrich Aldegrever (German, 1502–1555/61)
+  record_url: https://clevelandart.org/art/1946.250
+  image_url: https://openaccess-cdn.clevelandart.org/1946.250/1946.250_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 9c0c33c67cecbe01b9a186c81a9a06bf3a505e95857b6fad9cb4f17a93f1e297
+license: CC0-1.0

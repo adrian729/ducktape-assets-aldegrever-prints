@@ -1,0 +1,55 @@
+# descriptive: find it and understand it
+id: two-satyr-couples-on-foliate-candelabrum
+title: Candelabrum with two pairs of satyrs
+description: A tall candelabrum grotesque in two tiers. At the top two satyrs seated on scrolls, a long-haired one at the left and a goat-horned bearded one at the right, raise a tiered fluted vase of foliage with a small lizard among its leaves; a palmette separates the tiers. Below, a female satyr with a plumed headdress at the left and a bearded male at the right sit facing a horned goat skull at the centre, each holding a curved horn; all four have goat legs and hooves. Black line work with cream paper-toned fills on a transparent background.
+type: ornament
+categories:
+  - fantasy
+  - hybrids
+  - humans
+  - scrollwork
+subjects:
+  - candelabrum
+  - satyr
+  - goat
+  - skull
+  - horn
+  - vase
+  - leaf
+  - lizard
+  - palmette
+colors:
+  - black
+  - cream
+  - gray
+facing: mixed
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 2012-136-787
+render:
+  image: {}
+usage_notes:
+  - Upright piece (about 1 to 2); the two tiers can be cropped apart at the palmette if a shorter piece is needed.
+display_width:
+  - 240
+  - 480
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Ornament with Two Couples of Satyrs
+  object_identifier: 2012.136.787
+  date: "1549"
+  artist: Heinrich Aldegrever
+  record_url: https://www.metmuseum.org/art/collection/search/399020
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP828530.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 1b0298217d17dbcc2bfc39193d7737144253e4ca2c6d43c22269d9494d440cf2
+license: CC0-1.0

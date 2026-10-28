@@ -1,0 +1,52 @@
+# descriptive: find it and understand it
+id: child-gripping-wide-foliate-scroll
+title: Putto gripping a wide leaf scroll
+description: A wide horizontal foliate panel. A nude putto crouches at the centre with its head turned to the left, gripping the stems that run through both hands, while a small bell flower rises above its head; broad lobed leaves on thin curling stems spread symmetrically to both ends, with a small bud at each edge. Brown-black line work with cream and tan paper-toned fills on a transparent background.
+type: ornament
+categories:
+  - humans
+  - botanical
+  - scrollwork
+subjects:
+  - putto
+  - leaf
+  - scroll
+  - stem
+  - flower
+  - bud
+colors:
+  - black
+  - brown
+  - cream
+  - tan
+facing: left
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 1943-3-306
+render:
+  image: {}
+usage_notes:
+  - The scroll is cut by the plate edge at both ends; it suits a headpiece or a band but will not tile.
+display_width:
+  - 400
+  - 800
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The leaves at the left and right edges are cut by the plate edge of the print.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: National Gallery of Art, Washington
+  object_title: Ornament with Foliage and a Child in the Center
+  object_identifier: 1943.3.306
+  date: "1539"
+  artist: Heinrich Aldegrever
+  record_url: https://www.nga.gov/collection/art-object-page.3518.html
+  rights_text: Open Access / public domain; official image dataset openaccess=1
+  rights_url: https://www.nga.gov/artworks/free-images-and-open-access
+  source_sha256: eeb867c42896e50b933e7969ef52c3c8be0c159b775da27e6b9cc2da70a738eb
+license: CC0-1.0

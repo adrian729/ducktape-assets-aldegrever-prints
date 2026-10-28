@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: branching-scroll-with-broad-lobed-leaves
+title: Branching leaf scroll with bell flower
+description: A horizontal foliate ornament. From a leafy base at the bottom centre a straight stem rises to a bell-shaped flower on a ringed collar, and symmetrical stems branch to either side, curling into volutes dressed with broad lobed leaves and drooping buds. Tan-cream fills with dark brown hatching on a transparent background.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - leaf
+  - scroll
+  - flower
+  - bud
+  - stem
+colors:
+  - tan
+  - brown
+  - black
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: o1912-85
+render:
+  image: {}
+usage_notes:
+  - Reads as a headpiece or tailpiece; the central flower marks the axis.
+display_width:
+  - 240
+  - 460
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Low-resolution master (469 px wide); do not display it larger than its native size.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Museum für Kunst und Gewerbe Hamburg
+  object_title: Laubwerkfüllung
+  object_identifier: O1912.85
+  date: "1530"
+  artist: Aldegrever, Heinrich
+  record_url: https://www.mkg-hamburg.de/sammlung/objekt/laubwerkfullung/O1912.85/dc00101612
+  image_url: https://www.mkg-hamburg.de/object/dc00101612/image-download/0
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: d57eef3bddcf8f0f2a2360773bd069292433ab2eae4bb3913760151c3265697e
+license: null

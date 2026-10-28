@@ -1,0 +1,55 @@
+# descriptive: find it and understand it
+id: bearded-mask-with-eagle-and-paired-fauns
+title: Bearded mask with eagle, cornucopias and fauns
+description: A nearly rectangular engraved grotesque. A large bearded mask with a furrowed brow stares out from the centre under a pine-cone finial on a stand; two fruit-filled cornucopias hung with ribbons flank it, and a parrot-like bird perches on a scroll in each upper corner. At the lower sides two horned fauns with scaled fish tails face inward, holding a cloth that drapes behind an eagle with spread wings and talons at the bottom centre. Brown-black line work with cream paper-toned fills on a transparent background.
+type: ornament
+categories:
+  - fantasy
+  - hybrids
+  - animals
+  - scrollwork
+subjects:
+  - mask
+  - beard
+  - eagle
+  - bird
+  - cornucopia
+  - fruit
+  - triton
+  - ribbon
+  - drapery
+  - scroll
+colors:
+  - black
+  - brown
+  - cream
+facing: viewer
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 1922-498
+render:
+  image: {}
+usage_notes:
+  - Dense near-rectangular panel (about 3 to 4); it reads as a plate or a tile, not as a border.
+display_width:
+  - 300
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: Ornament Design with a Mask and an Eagle between Two Fauns Below
+  object_identifier: "1922.498"
+  date: "1509"
+  artist: Heinrich Aldegrever (German, 1502–1555/61)
+  record_url: https://clevelandart.org/art/1922.498
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 525b4b81db946a5000125dce34878167e1abe4cb80d2abf7424e57e6f2ff230f
+license: CC0-1.0

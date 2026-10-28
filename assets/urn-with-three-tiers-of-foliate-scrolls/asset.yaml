@@ -1,0 +1,54 @@
+# descriptive: find it and understand it
+id: urn-with-three-tiers-of-foliate-scrolls
+title: Urn candelabrum with three tiers of flowers
+description: A tall narrow symmetrical candelabrum. From a gadrooned urn at the bottom a central shaft rises through three tiers of paired volutes, each holding a large round flower, past a shouting mask in the lower middle and a blank tablet in the upper middle, to a cup with ears of grain at the top; thin acanthus stems with small leaves and beads fill the sides. Tan-cream fills with dark brown hatching on a transparent background.
+type: ornament
+categories:
+  - floral
+  - scrollwork
+  - fantasy
+subjects:
+  - candelabrum
+  - urn
+  - flower
+  - mask
+  - cartouche
+  - acanthus
+  - leaf
+  - scroll
+colors:
+  - tan
+  - brown
+  - black
+facing: viewer
+composition: single-ornament
+
+# structural: how it is organised and related
+group: o1907-754
+render:
+  image: {}
+usage_notes:
+  - The blank tablet in the upper middle can carry a short caption.
+display_width:
+  - 90
+  - 170
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Low-resolution master (171 px wide); do not display it larger than its native size.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Museum für Kunst und Gewerbe Hamburg
+  object_title: Kandelabergroteske
+  object_identifier: O1907.754
+  date: "1552"
+  artist: Aldegrever, Heinrich
+  record_url: https://www.mkg-hamburg.de/sammlung/objekt/kandelabergroteske/O1907.754/dc00101615
+  image_url: https://www.mkg-hamburg.de/object/dc00101615/image-download/0
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: 4b27bfc564d36cf946774ddc9fbe386bc71ddb3e47555cf93f4cb84518aa3b8c
+license: null

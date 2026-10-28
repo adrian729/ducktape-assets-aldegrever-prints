@@ -1,0 +1,57 @@
+# descriptive: find it and understand it
+id: bearded-mask-with-tritons-and-two-children
+title: Grotesque with mask, goat heads and children
+description: A nearly rectangular engraved grotesque. A large bearded mask with an open mouth fills the centre; above it a small bearded man sits astride its crest and stretches a cloth to two horned goat heads in the upper corners, while a booted man in a jerkin perches on a cornucopia at either side. Below, a nude child rides a woman's bust at the left and another stands on a bearded satyr's head at the right; a lion mask with a draped cloth and a small lower mask among acanthus leaves close the bottom. Brown-black line work with cream paper-toned fills on a transparent background.
+type: ornament
+categories:
+  - fantasy
+  - hybrids
+  - humans
+  - scrollwork
+subjects:
+  - mask
+  - beard
+  - goat
+  - horn
+  - human
+  - putto
+  - woman
+  - satyr
+  - lion
+  - cornucopia
+  - drapery
+  - acanthus
+colors:
+  - black
+  - brown
+  - cream
+facing: viewer
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 1922-495
+render:
+  image: {}
+usage_notes:
+  - Dense near-rectangular panel (about 3 to 4); it reads as a plate or a tile, not as a border.
+display_width:
+  - 300
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: Ornament Design with a Mask, A Couple of Tritons, and Two Children Below
+  object_identifier: "1922.495"
+  date: "1549"
+  artist: Heinrich Aldegrever (German, 1502–1555/61)
+  record_url: https://clevelandart.org/art/1922.495
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: c3b6a09151d9701935fd47b9051791f5229b7e7a3611ee4e52beaa522ea505bd
+license: CC0-1.0

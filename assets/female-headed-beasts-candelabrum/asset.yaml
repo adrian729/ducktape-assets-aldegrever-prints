@@ -1,0 +1,56 @@
+# descriptive: find it and understand it
+id: female-headed-beasts-candelabrum
+title: Candelabrum with female-headed beasts and lizards
+description: A tall candelabrum grotesque. A hairy mask at the top holds ribbons and stems in its mouth; below it two feline-bodied beasts with raised tails stand back to back, their long necks ending in two women's heads at the sides, and a blank tablet hangs between them above a palmette. Two flaming bowls stand on fluted brackets at the sides, and two lizard-like beasts grip the stems at the bottom around a cup with ears of grain. Tan-cream fills with dark brown hatching on a transparent background.
+type: ornament
+categories:
+  - fantasy
+  - hybrids
+  - scrollwork
+subjects:
+  - candelabrum
+  - mask
+  - chimera
+  - woman
+  - lizard
+  - cartouche
+  - flame
+  - bowl
+  - palmette
+  - ribbon
+colors:
+  - tan
+  - brown
+  - black
+facing: viewer
+composition: single-ornament
+
+# structural: how it is organised and related
+group: o2013-2
+render:
+  image: {}
+usage_notes:
+  - The blank tablet in the middle can carry a short caption.
+display_width:
+  - 120
+  - 220
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Low-resolution master (225 px wide); do not display it larger than its native size.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Museum für Kunst und Gewerbe Hamburg
+  object_title: Kandelabergroteske
+  object_identifier: O2013.2
+  date: "1549"
+  artist: Aldegrever, Heinrich
+  record_url: https://www.mkg-hamburg.de/sammlung/objekt/kandelabergroteske/O2013.2/dc00101642
+  image_url: https://www.mkg-hamburg.de/object/dc00101642/image-download/0
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: b7f0487b6955fdfaf202605fcdedf2a088e254a7d5037f9aa395fa189f48c70d
+license: null

@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: paired-horns-sprouting-broad-leafy-tendrils
+title: Two horns with vine-leaf scroll
+description: A wide horizontal foliate panel. Two short horns rise from a central pair of volutes and are tied together by a bow at the top, with an upright vine leaf between them; broad lobed leaves on curling stems spread symmetrically to both ends, with volutes along the base and a curled leaf at each outer corner. Brown-black line work with cream and tan paper-toned fills on a transparent background.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - horn
+  - leaf
+  - scroll
+  - vine
+  - ribbon
+colors:
+  - black
+  - brown
+  - cream
+  - tan
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 27-23-74
+render:
+  image: {}
+usage_notes:
+  - Complete at both ends; reads as a headpiece or a band.
+display_width:
+  - 400
+  - 800
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Horizontal Panel with Two Tendrils Sprouting Upwards from Horns at Center
+  object_identifier: 27.23.74
+  date: 1525–61
+  artist: Heinrich Aldegrever
+  record_url: https://www.metmuseum.org/art/collection/search/422504
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP836787.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: f538de1b6c43eabfe5a1c0b0ecd2297a52c2caba86dc2119120ff93852428ea7
+license: CC0-1.0

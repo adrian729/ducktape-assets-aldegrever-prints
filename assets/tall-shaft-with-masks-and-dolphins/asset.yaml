@@ -1,0 +1,55 @@
+# descriptive: find it and understand it
+id: tall-shaft-with-masks-and-dolphins
+title: Leafy shaft with two masks and dolphins
+description: A tall narrow symmetrical foliate ornament. Under a leafy crown at the top two bearded grotesque masks in profile face outward; below them two dolphin-like creatures with open jaws curl away from the shaft, two small roses sit on the stems, a fluted collar holds hanging pear-shaped pods, and tiers of broad acanthus leaves, volutes and pea pods descend to a leafy base. Brown-black line work with cream and tan paper-toned fills on a transparent background.
+type: ornament
+categories:
+  - fantasy
+  - scrollwork
+  - floral
+subjects:
+  - mask
+  - beard
+  - dolphin
+  - rose
+  - flower
+  - acanthus
+  - leaf
+  - scroll
+  - fruit
+  - seed
+colors:
+  - black
+  - brown
+  - cream
+  - tan
+facing: mixed
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 1943-3-297
+render:
+  image: {}
+usage_notes:
+  - Very tall piece (about 1 to 3.4); it suits a page margin or a vertical separator at full height.
+display_width:
+  - 160
+  - 360
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: National Gallery of Art, Washington
+  object_title: Sprig of Ornamental Foliage with Two Masks and Two Dolphins
+  object_identifier: 1943.3.297
+  date: "1530"
+  artist: Heinrich Aldegrever
+  record_url: https://www.nga.gov/collection/art-object-page.3509.html
+  rights_text: Open Access / public domain; official image dataset openaccess=1
+  rights_url: https://www.nga.gov/artworks/free-images-and-open-access
+  source_sha256: 890c1cb8ef807a2dd951cbf78b6e3457d5639f29403ea5113ce3133660d46367
+license: CC0-1.0

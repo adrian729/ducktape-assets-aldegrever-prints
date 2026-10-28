@@ -1,0 +1,52 @@
+# descriptive: find it and understand it
+id: two-children-in-tall-fruiting-leaf-scroll
+title: Two putti under a tall leaf scroll
+description: A tall narrow foliate panel. Two putti sit at the bottom, one in a short tunic facing right behind a nude one facing the viewer, both holding stems; above them a dense scroll of thin stems with lobed leaves, buds and pod-like fruits fills the whole height. Tan-cream fills with dark brown hatching on a transparent background.
+type: ornament
+categories:
+  - humans
+  - botanical
+  - scrollwork
+subjects:
+  - putto
+  - leaf
+  - scroll
+  - stem
+  - bud
+  - fruit
+colors:
+  - tan
+  - brown
+  - black
+facing: mixed
+composition: single-ornament
+
+# structural: how it is organised and related
+group: o1907-751
+render:
+  image: {}
+usage_notes:
+  - Very tall piece (about 1 to 3.3); it suits a page margin at a small size.
+display_width:
+  - 80
+  - 140
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Low-resolution master (143 px wide); do not display it larger than its native size.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Museum für Kunst und Gewerbe Hamburg
+  object_title: Laubwerkfüllung mit zwei Putten
+  object_identifier: O1907.751
+  date: "1535"
+  artist: Aldegrever, Heinrich
+  record_url: https://www.mkg-hamburg.de/sammlung/objekt/laubwerkfullung-zwei-putten/O1907.751/dc00101613
+  image_url: https://www.mkg-hamburg.de/object/dc00101613/image-download/0
+  image_rights: LicenseRef-PDM
+  rights_url: https://creativecommons.org/publicdomain/mark/1.0/
+  source_sha256: fd932fde6ef96937a03b2b5fca870dcc31e0f02b259a24bda4539f46d580a0d5
+license: null

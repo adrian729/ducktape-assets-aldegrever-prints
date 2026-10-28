@@ -1,0 +1,51 @@
+# descriptive: find it and understand it
+id: leafy-stems-on-hairy-base
+title: Leafy stems on a hairy base
+description: A narrow upright strip cut from the Ornament with Naked Couple sheet. Grass-like stalks with small lobed leaves and buds rise from a rounded tuft of hair-like hatching at the bottom; the left side is a straight cut where the couple stood in the print. Black line work with cream paper-toned fills on a transparent background.
+type: ornament
+categories:
+  - botanical
+subjects:
+  - leaf
+  - stem
+  - bud
+  - plant
+colors:
+  - black
+  - cream
+  - gray
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 1943-3-301
+render:
+  image: {}
+related:
+  - { asset: aldegrever-prints/nude-couple-standing, role: companion }
+  - { asset: aldegrever-prints/tall-grotesque-with-female-and-animal-heads, role: companion }
+usage_notes:
+  - Crop from the same sheet as the couple and the tall grotesque; the straight left edge is where it abutted the couple, so place something against that side or keep it at the right of a composition.
+display_width:
+  - 100
+  - 200
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Low-resolution master (201 px wide) with a straight cut along the left edge; no face is legible in the hairy base despite the id.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: National Gallery of Art, Washington
+  object_title: Ornament with Naked Couple
+  object_identifier: 1943.3.301
+  date: "1532"
+  artist: Heinrich Aldegrever
+  record_url: https://www.nga.gov/collection/art-object-page.3513.html
+  image_url: https://api.nga.gov/iiif/4d055d56-0445-4536-bc24-abb9222d01c2/full/full/0/default.jpg
+  rights_text: Open Access / public domain; official image dataset openaccess=1
+  rights_url: https://www.nga.gov/artworks/free-images-and-open-access
+  source_sha256: 72175da7e93941f643aff6367d0344477dc3809d402474a3839ee1790756c182
+license: CC0-1.0

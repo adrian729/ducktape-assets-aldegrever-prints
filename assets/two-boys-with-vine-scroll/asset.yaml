@@ -1,0 +1,52 @@
+# descriptive: find it and understand it
+id: two-boys-with-vine-scroll
+title: Two putti in a vine-leaf scroll
+description: A wide horizontal foliate panel. A nude boy stands at the far left facing right, one hand on his hip and the other raised to a stem; a second nude boy stands near the centre facing right, grasping a stem above his head and stretching his other arm along the scroll; thin curling stems with broad lobed vine leaves fill the rest of the panel to the right edge. Brown-black line work with cream and tan paper-toned fills on a transparent background.
+type: ornament
+categories:
+  - humans
+  - botanical
+  - scrollwork
+subjects:
+  - putto
+  - leaf
+  - vine
+  - scroll
+  - stem
+colors:
+  - black
+  - brown
+  - cream
+  - tan
+facing: right
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 27-23-78
+render:
+  image: {}
+usage_notes:
+  - Reads left to right as a headpiece or a band; the figures anchor the left half.
+display_width:
+  - 400
+  - 800
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The leaves at the right edge are cut by the plate edge of the print.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Horizontal Panel with Two Nude Boys Surrounded by Tendrils
+  object_identifier: 27.23.78
+  date: "1549"
+  artist: Heinrich Aldegrever
+  record_url: https://www.metmuseum.org/art/collection/search/422498
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP836790.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 19337006e4bc7a078d95b294ba85a88c244a23dde9334ed919cc34036f9ab08e
+license: CC0-1.0

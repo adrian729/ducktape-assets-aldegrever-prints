@@ -1,0 +1,53 @@
+# descriptive: find it and understand it
+id: soldier-profile-in-fruiting-dagger-sheath
+title: Dagger sheath with soldier's head
+description: A tall tapering ornament designed for a dagger sheath. At the top a helmeted soldier's head in profile faces left inside a wreath of leaves and buds; below it a stem runs down the centre through curled acanthus leaves, a volute and rows of pod-like fruits hanging from short stems, narrowing to a point at the bottom. Black line work with cream paper-toned fills on a transparent background.
+type: ornament
+categories:
+  - humans
+  - botanical
+subjects:
+  - sheath
+  - weapon
+  - soldier
+  - helmet
+  - face
+  - fruit
+  - leaf
+  - scroll
+  - stem
+colors:
+  - black
+  - cream
+  - gray
+facing: left
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 32-123-2
+render:
+  image: {}
+usage_notes:
+  - Very tall and narrow (about 1 to 4.5); it suits a page margin or a vertical rule, head at the top.
+display_width:
+  - 100
+  - 240
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Metropolitan Museum of Art
+  object_title: Dagger Sheath with Profile of a Soldier Supported by Tendrils
+  object_identifier: 32.123.2
+  date: "1535"
+  artist: Heinrich Aldegrever
+  record_url: https://www.metmuseum.org/art/collection/search/422496
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP836756.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.metmuseum.org/policies/image-resources
+  source_sha256: 1f80447a8ad6f3907fe09163bcbc25d063f90238a77a538c0cc710ac1fcdc527
+license: CC0-1.0
