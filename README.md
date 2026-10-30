@@ -3,7 +3,7 @@
 
 Foliate panels, candelabrum grotesques, masks, satyrs, children and a dagger sheath engraved by Heinrich Aldegrever in Soest, about 1525–1555, from twenty sheets in Cleveland, New York, Hamburg and Washington; loose prints by one artist, grouped by sheet.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `aldegrever-prints`, historical, 22 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `aldegrever-prints`, historical, 22 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `aldegrever-prints/acanthus-vase-between-two-female-chimeras`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-aldegrever-prints@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-aldegrever-prints@1.0.0/webp/acanthus-vase-between-two-female-chimeras-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-aldegrever-prints`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-aldegrever-prints-masters`; never put a master on a page.
